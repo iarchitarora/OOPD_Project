@@ -1,0 +1,4 @@
+<map id="iiitd.oopdProject.Payment" name="iiitd.oopdProject.Payment">
+<area shape="rect" id="node1" title="Implementation of INHERITANCE: Payment class inherits from DatabaseConnector class." alt="" coords="11,277,181,413"/>
+<area shape="rect" id="node2" href="$classiiitd_1_1oopd_project_1_1_database_connector.html" title="ENCAPSULATION has been implemented using getter and setter functions for private variable dbName." alt="" coords="5,5,187,229"/>
+</map>

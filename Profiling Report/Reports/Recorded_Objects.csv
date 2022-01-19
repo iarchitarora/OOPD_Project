@@ -1,0 +1,237 @@
+"Name","Instance Count","Size (bytes)"
+"byte[ ]",1048,130528
+"java.lang.String",744,17856
+"java.util.concurrent.ConcurrentHashMap$Node",215,6880
+"sun.util.locale.BaseLocale$Key",156,4992
+"sun.util.locale.BaseLocale",152,4864
+"java.util.HashMap$Node",150,4800
+"sun.util.locale.LocaleObjectCache$CacheEntry",146,7008
+"java.lang.StringBuilder",105,2520
+"char[ ]",104,12536
+"sun.util.locale.ParseStatus",80,1920
+"java.lang.ref.SoftReference",78,3120
+"sun.util.locale.LanguageTag",74,2960
+"java.util.Locale",73,2336
+"jdk.internal.org.objectweb.asm.SymbolTable$Entry",73,4088
+"sun.util.locale.InternalLocaleBuilder",73,2920
+"sun.util.locale.StringTokenIterator",73,2920
+"jdk.internal.math.FDBigInteger",68,2176
+"java.nio.HeapCharBuffer",67,3752
+"int[ ]",64,12760
+"java.lang.Object[ ]",40,1752
+"java.lang.Class[ ]",39,952
+"java.lang.Object",34,544
+"java.nio.DirectByteBufferR",34,2448
+"java.util.regex.Pattern$GroupTail",33,792
+"java.lang.Class",28,8960
+"java.util.regex.Pattern$GroupHead",27,648
+"java.util.regex.Pattern$CharProperty",26,624
+"java.lang.invoke.MethodType",25,1000
+"long[ ]",22,1760
+"boolean[ ]",20,5440
+"jdk.internal.module.ServicesCatalog$ServiceProvider",16,384
+"jdk.internal.org.objectweb.asm.Label",16,896
+"java.net.URL",15,960
+"java.util.regex.Pattern$BitClass",15,240
+"java.util.regex.Pattern$Node[ ]",15,384
+"jdk.internal.org.objectweb.asm.ByteVector",15,360
+"java.util.HashMap$Node[ ]",14,3688
+"java.util.OptionalInt",14,336
+"java.io.File",13,416
+"java.lang.String[ ]",13,440
+"java.util.Formatter$Flags",13,208
+"java.util.regex.IntHashSet[ ]",13,208
+"java.util.regex.Pattern$Ques",13,312
+"java.util.stream.IntPipeline$9",13,832
+"java.lang.Character",12,192
+"java.lang.invoke.LambdaForm$Name",11,352
+"java.security.CodeSource",11,440
+"java.util.ArrayList",11,264
+"java.util.ArrayList$Itr",11,352
+"java.util.jar.JarFile$JarFileEntry",11,1056
+"java.util.stream.FindOps$FindSink$OfInt",11,264
+"java.util.Formatter$FormatSpecifier",10,400
+"java.util.WeakHashMap$Entry",10,400
+"java.util.regex.Pattern$CharPredicate$$Lambda$57.1110623531",10,240
+"java.util.stream.IntPipeline$9$1",10,240
+"java.util.stream.IntPipeline$Head",10,560
+"java.util.zip.ZipFile$InflaterCleanupAction",10,240
+"jdk.internal.org.objectweb.asm.Frame",10,480
+"java.lang.invoke.MemberName",9,432
+"java.util.concurrent.ConcurrentHashMap",9,576
+"java.util.jar.JarFile$1",9,144
+"java.util.regex.Pattern$Branch",9,288
+"java.util.regex.Pattern$BranchConn",9,144
+"jdk.internal.ref.CleanerImpl$PhantomCleanableRef",9,432
+"java.security.SecureClassLoader$1",8,192
+"java.security.SecureClassLoader$CodeSourceKey",8,128
+"java.util.HashMap",8,384
+"java.util.regex.Pattern$BmpCharProperty",8,192
+"java.util.regex.Pattern$TreeInfo",8,192
+"jdk.internal.module.SystemModuleFinders$SystemModuleReader",8,192
+"java.lang.StringLatin1$CharsSpliterator",7,224
+"java.util.zip.ZipFile$ZipFileInflaterInputStream",7,392
+"jdk.internal.loader.URLClassPath$JarLoader$2",7,224
+"java.util.Formatter$Flags[ ]",6,240
+"java.util.concurrent.ConcurrentHashMap$Node[ ]",6,1312
+"java.util.jar.Attributes$Name",6,144
+"java.util.regex.Pattern$$Lambda$60.289639718",6,96
+"jdk.internal.org.objectweb.asm.MethodWriter",6,1344
+"java.lang.Class$ReflectionData",5,320
+"java.lang.StringUTF16$CharsSpliterator",5,160
+"java.lang.invoke.MethodHandles$Lookup",5,160
+"java.lang.invoke.MethodType$ConcurrentWeakInternSet$WeakEntry",5,160
+"java.nio.DirectByteBuffer",5,360
+"java.util.TreeMap$Entry",5,200
+"java.util.regex.Matcher",5,360
+"java.util.regex.Pattern",5,440
+"java.util.regex.Pattern$BmpCharPropertyGreedy",5,120
+"java.util.regex.Pattern$CharPredicate$$Lambda$22.2142003995",5,80
+"java.util.regex.Pattern$Curly",5,160
+"jdk.internal.org.objectweb.asm.SymbolTable$Entry[ ]",5,2320
+"org.sqlite.SQLiteConfig$Pragma",5,160
+"org.sqlite.date.FormatCache$MultipartKey",5,120
+"java.lang.Integer",4,64
+"java.lang.invoke.LambdaForm$Name[ ]",4,208
+"java.util.HashSet",4,64
+"java.util.LinkedHashMap$Entry",4,160
+"java.util.concurrent.ConcurrentHashMap$ValueIterator",4,224
+"java.util.concurrent.CopyOnWriteArrayList",4,96
+"java.util.regex.Pattern$CharPredicate$$Lambda$23.1535634836",4,96
+"java.util.regex.Pattern$GroupHead[ ]",4,224
+"jdk.internal.org.objectweb.asm.Handler",4,160
+"java.io.FileDescriptor",3,120
+"java.lang.WeakPairMap$Pair$Lookup",3,72
+"java.lang.invoke.InnerClassLambdaMetafactory",3,312
+"java.lang.invoke.MethodHandleNatives$CallSiteContext",3,96
+"java.lang.reflect.Constructor[ ]",3,72
+"java.util.Collections$1",3,72
+"java.util.LinkedHashMap",3,168
+"java.util.regex.Pattern$Start",3,72
+"java.util.zip.ZipFile$ZipFileInputStream",3,168
+"jdk.internal.org.objectweb.asm.AnnotationWriter",3,144
+"jdk.internal.org.objectweb.asm.Type",3,96
+"jdk.internal.org.objectweb.asm.Type[ ]",3,56
+"sun.nio.cs.StreamDecoder",3,144
+"java.io.FilePermission",2,80
+"java.lang.Byte",2,32
+"java.lang.Long",2,48
+"java.lang.PublicMethods$MethodList",2,48
+"java.lang.StringBuffer",2,64
+"java.lang.invoke.BoundMethodHandle$Species_LLL",2,80
+"java.lang.invoke.InfoFromMemberName",2,48
+"java.lang.invoke.InnerClassLambdaMetafactory$1",2,48
+"java.lang.invoke.InnerClassLambdaMetafactory$ForwardingMethodGenerator",2,48
+"java.lang.invoke.LambdaFormEditor",2,32
+"java.lang.invoke.SimpleMethodHandle",2,64
+"java.lang.invoke.StringConcatFactory$RecipeElement",2,48
+"java.lang.reflect.Method",2,176
+"java.lang.reflect.Method[ ]",2,72
+"java.nio.HeapByteBuffer",2,112
+"java.text.DecimalFormatSymbols",2,160
+"java.text.DigitList",2,80
+"java.util.Collections$SingletonList",2,48
+"java.util.Collections$SingletonMap",2,80
+"java.util.HashMap$KeySet",2,32
+"java.util.ImmutableCollections$Set12$1",2,48
+"java.util.ImmutableCollections$SetN$SetNIterator",2,48
+"java.util.Optional",2,32
+"java.util.Properties",2,112
+"java.util.concurrent.ConcurrentHashMap$KeySetView",2,48
+"java.util.regex.Pattern$GroupCurly",2,96
+"java.util.regex.Pattern$Slice",2,48
+"jdk.internal.jimage.ImageLocation",2,48
+"jdk.internal.loader.BuiltinClassLoader$5",2,48
+"jdk.internal.org.objectweb.asm.Edge",2,48
+"jdk.internal.org.objectweb.asm.FieldWriter",2,128
+"jdk.internal.org.objectweb.asm.SymbolTable",2,128
+"jdk.internal.reflect.NativeMethodAccessorImpl",2,48
+"org.sqlite.SQLiteConfig",2,64
+"org.sqlite.SQLiteConnectionConfig",2,80
+"org.sqlite.date.FastDateParser$NumberStrategy",2,32
+"org.sqlite.jdbc4.JDBC4ResultSet",2,112
+"sun.net.www.protocol.jar.URLJarFile$URLJarFileEntry",2,192
+"sun.nio.fs.WindowsPath",2,80
+"com.jprofiler.agent.NativeAgentMethods$1",1,16
+"java.lang.Character[ ]",1,528
+"java.lang.Float",1,16
+"java.lang.PublicMethods$Key",1,24
+"java.lang.ThreadLocal$ThreadLocalMap$Entry",1,32
+"java.lang.WeakPairMap$$Lambda$2.943010986",1,16
+"java.lang.annotation.RetentionPolicy",1,24
+"java.lang.invoke.BoundMethodHandle$Species_L",1,32
+"java.lang.invoke.DirectMethodHandle",1,32
+"java.lang.invoke.InvokerBytecodeGenerator",1,64
+"java.lang.invoke.LambdaFormEditor$Transform",1,56
+"java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle",1,40
+"java.lang.ref.ReferenceQueue",1,32
+"java.lang.reflect.Constructor",1,80
+"java.lang.reflect.Proxy$$Lambda$70.1983025922",1,16
+"java.lang.reflect.Proxy$$Lambda$71.1268959798",1,16
+"java.lang.reflect.ProxyGenerator",1,160
+"java.lang.reflect.ProxyGenerator$PrimitiveTypeInfo",1,32
+"java.nio.file.LinkOption[ ]",1,16
+"java.nio.file.attribute.FileTime",1,32
+"java.security.ProtectionDomain",1,40
+"java.sql.SQLPermission",1,24
+"java.text.DecimalFormat",1,144
+"java.util.Arrays$ArrayList",1,24
+"java.util.Collections$SetFromMap",1,24
+"java.util.HashMap$EntryIterator",1,40
+"java.util.HashMap$ValueIterator",1,40
+"java.util.ImmutableCollections$Set12",1,24
+"java.util.LinkedHashMap$LinkedValueIterator",1,32
+"java.util.Locale[ ]",1,3056
+"java.util.Properties$EntrySet",1,16
+"java.util.ResourceBundle$ResourceBundleProviderHelper$$Lambda$48.222624801",1,16
+"java.util.Scanner",1,144
+"java.util.ServiceLoader$2",1,24
+"java.util.ServiceLoader$ModuleServicesLookupIterator",1,32
+"java.util.WeakHashMap",1,48
+"java.util.WeakHashMap$Entry[ ]",1,80
+"java.util.concurrent.ConcurrentHashMap$EntryIterator",1,56
+"java.util.concurrent.ConcurrentHashMap$ForwardingNode",1,32
+"java.util.concurrent.ConcurrentHashMap$ReservationNode",1,32
+"java.util.concurrent.atomic.AtomicBoolean",1,16
+"java.util.concurrent.atomic.AtomicLong",1,24
+"java.util.regex.CharPredicates$$Lambda$67.1640639994",1,16
+"java.util.regex.Pattern$CharPropertyGreedy",1,24
+"java.util.regex.Pattern$SliceI",1,24
+"java.util.zip.Inflater",1,64
+"java.util.zip.ZipFile$CleanableResource",1,32
+"java.util.zip.ZipFile$Source$End",1,40
+"java.util.zip.ZipFile$Source$Key",1,24
+"jdk.internal.loader.BuiltinClassLoader$1",1,32
+"jdk.internal.loader.URLClassPath$JarLoader$1",1,16
+"jdk.internal.math.FDBigInteger[ ]",1,1376
+"jdk.internal.math.FormattedFloatingDecimal",1,24
+"jdk.internal.math.FormattedFloatingDecimal$Form",1,24
+"jdk.internal.org.objectweb.asm.ClassWriter",1,136
+"jdk.internal.reflect.DelegatingConstructorAccessorImpl",1,16
+"jdk.internal.reflect.NativeConstructorAccessorImpl",1,24
+"org.sqlite.SQLiteConfig$DateClass[ ]",1,32
+"org.sqlite.SQLiteConfig$DatePrecision",1,24
+"org.sqlite.SQLiteConfig$DatePrecision[ ]",1,24
+"org.sqlite.SQLiteConfig$Encoding",1,24
+"org.sqlite.SQLiteConfig$HexKeyMode",1,24
+"org.sqlite.SQLiteConfig$JournalMode[ ]",1,40
+"org.sqlite.SQLiteConfig$LockingMode[ ]",1,24
+"org.sqlite.SQLiteConfig$TransactionMode",1,24
+"org.sqlite.SQLiteLimits",1,24
+"org.sqlite.SQLiteOpenMode",1,24
+"org.sqlite.SQLiteOpenMode[ ]",1,88
+"org.sqlite.date.FastDateFormat$1",1,16
+"org.sqlite.date.FastDateParser$CopyQuotedStrategy",1,16
+"org.sqlite.date.FastDatePrinter$TwoDigitNumberField",1,16
+"org.sqlite.jdbc4.JDBC4Connection",1,32
+"org.sqlite.jdbc4.JDBC4Statement",1,48
+"sun.net.www.protocol.file.FileURLConnection",1,104
+"sun.net.www.protocol.jar.JarURLConnection",1,88
+"sun.net.www.protocol.jar.URLJarFile",1,80
+"sun.nio.fs.WindowsFileAttributeViews$Basic",1,24
+"sun.nio.fs.WindowsFileAttributes",1,64
+"sun.reflect.generics.tree.SimpleClassTypeSignature",1,24
+"sun.reflect.generics.tree.TypeArgument[ ]",1,16
+"sun.util.calendar.ZoneInfoFile$Checksum",1,16
+"sun.util.locale.provider.LocaleServiceProviderPool",1,24
+"sun.util.resources.Bundles$CacheKey",1,32

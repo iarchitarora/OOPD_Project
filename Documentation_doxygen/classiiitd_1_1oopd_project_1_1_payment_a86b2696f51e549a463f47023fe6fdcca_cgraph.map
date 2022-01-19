@@ -1,0 +1,5 @@
+<map id="iiitd.oopdProject.Payment.distance" name="iiitd.oopdProject.Payment.distance">
+<area shape="rect" id="node1" title="distance() &#45;&#45;&gt; Returns distance in kilometer using the lat, long values of 2 locations." alt="" coords="5,31,229,57"/>
+<area shape="rect" id="node2" href="$classiiitd_1_1oopd_project_1_1_payment.html#acd6e5c39ff3e7a40fa4f06c58950b8d3" title="Helper function to convert degree to radian." alt="" coords="277,5,499,32"/>
+<area shape="rect" id="node3" href="$classiiitd_1_1oopd_project_1_1_payment.html#a13c7cad833f2593ec2be265cb122411c" title="Helper function to convert radian to degree." alt="" coords="277,56,499,83"/>
+</map>

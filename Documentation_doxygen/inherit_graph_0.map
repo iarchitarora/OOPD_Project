@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classiiitd_1_1oopd_project_1_1_database_connector.html" title="ENCAPSULATION has been implemented using getter and setter functions for private variable dbName." alt="" coords="5,49,180,90"/>
+<area shape="rect" id="node2" href="$classiiitd_1_1oopd_project_1_1_authentication.html" title="Implementation of INHERITANCE: Authentication class inherits from DatabaseConnector class." alt="" coords="228,5,431,32"/>
+<area shape="rect" id="node3" href="$classiiitd_1_1oopd_project_1_1_order.html" title="Implementation of INHERITANCE: Order class inherits from DatabaseConnector class." alt="" coords="254,56,405,83"/>
+<area shape="rect" id="node4" href="$classiiitd_1_1oopd_project_1_1_payment.html" title="Implementation of INHERITANCE: Payment class inherits from DatabaseConnector class." alt="" coords="244,107,415,133"/>
+</map>

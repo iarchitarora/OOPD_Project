@@ -1,0 +1,24 @@
+"Hot Spot","Self Allocated Memory (bytes)","Allocations"
+"java.sql.DriverManager.getConnection",201056,3419
+"java.util.Scanner.nextInt",36736,312
+"java.sql.Connection.close",16144,354
+"java.util.Scanner.<init>",11208,88
+"java.io.PrintStream.printf",8552,230
+"java.lang.Float.toString",3552,69
+"java.sql.Connection.getMetaData",3256,70
+"java.sql.Statement.execute",1376,19
+"iiitd.oopdProject.Menu.display",1072,19
+"java.sql.ResultSet.getString",832,24
+"java.sql.Statement.executeQuery",464,13
+"java.util.Scanner.nextLine",312,14
+"java.lang.StringBuilder.append",264,4
+"java.lang.StringBuilder.toString",176,5
+"java.io.PrintStream.println",112,2
+"java.lang.StringBuilder.<init>",112,4
+"iiitd.oopdProject.Tracking.track",48,2
+"java.lang.Float.parseFloat",32,1
+"java.lang.Math.sin",32,1
+"java.lang.Double.valueOf",24,1
+"java.util.ArrayList.<init>",24,1
+"java.util.Random.<init>",24,1
+"java.lang.Float.valueOf",16,1

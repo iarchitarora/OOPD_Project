@@ -1,0 +1,4 @@
+<map id="iiitd.oopdProject.Authentication" name="iiitd.oopdProject.Authentication">
+<area shape="rect" id="node1" title="Implementation of INHERITANCE: Authentication class inherits from DatabaseConnector class." alt="" coords="5,277,208,384"/>
+<area shape="rect" id="node2" href="$classiiitd_1_1oopd_project_1_1_database_connector.html" title="ENCAPSULATION has been implemented using getter and setter functions for private variable dbName." alt="" coords="16,5,197,229"/>
+</map>

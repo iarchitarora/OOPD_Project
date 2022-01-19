@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"></meta>
+<title>Allocation Hot Spots</title>
+<style>body, td, th, p, ul, ol, div {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}</style></head>
+<body>
+<h2>Allocation Hot Spots</h2>
+<table border="0">
+<tr><td><b>Session:</b></td> <td>FoodOrdering (1)</td></tr>
+<tr><td><b>Time of export:</b></td> <td>Friday, December 10, 2021 5:18:05 AM IST</td></tr>
+<tr><td><b>JVM time:</b></td> <td>12:08</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+<td><b>Liveness mode:&nbsp;</b></td> <td>Live objects</td></tr>
+<td><b>Recording rate:&nbsp;</b></td> <td>1/10 allocations</td></tr>
+<td><b>Allocations of:&nbsp;</b></td> <td>All classes</td></tr>
+<td><b>Aggregation level:&nbsp;</b></td> <td>Methods</td></tr>
+<td><b>Hot spot calculation:&nbsp;</b></td> <td>Self allocated memory</td></tr>
+<td><b>Unprofiled classes:&nbsp;</b></td> <td>Show separately</td></tr>
+</table>
+
+<hr size="1"/><br />
+<style>th {border:1px solid #BBBBBB;padding: 3px; margin-bottom: 3px}
+td {whitespace:nowrap; padding: 0 3px}</style><table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<tr><th width="40">&nbsp;</th><th>Hot Spot</th><th>Self Allocated Memory</th><th>Allocations</th></tr><tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />DriverManager.<wbr />getConnection</td><td><img height="16" width="150" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;201 kB (70 %)</td><td align="right">3,419</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />util.<wbr />Scanner.<wbr />nextInt</td><td><img height="16" width="27" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;36,736 bytes (12 %)</td><td align="right">312</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />Connection.<wbr />close</td><td><img height="16" width="12" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;16,144 bytes (5 %)</td><td align="right">354</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />util.<wbr />Scanner.<wbr />&lt;init&gt;</td><td><img height="16" width="8" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;11,208 bytes (3 %)</td><td align="right">88</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />io.<wbr />PrintStream.<wbr />printf</td><td><img height="16" width="6" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;8,552 bytes (2 %)</td><td align="right">230</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />Float.<wbr />toString</td><td><img height="16" width="3" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;3,552 bytes (1 %)</td><td align="right">69</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />Connection.<wbr />getMetaData</td><td><img height="16" width="2" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;3,256 bytes (1 %)</td><td align="right">70</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />Statement.<wbr />execute</td><td><img height="16" width="1" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;1,376 bytes (0 %)</td><td align="right">19</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>iiitd.<wbr />oopdProject.<wbr />Menu.<wbr />display</td><td><img height="16" width="1" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;1,072 bytes (0 %)</td><td align="right">19</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />ResultSet.<wbr />getString</td><td><img height="16" width="1" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;832 bytes (0 %)</td><td align="right">24</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />sql.<wbr />Statement.<wbr />executeQuery</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;464 bytes (0 %)</td><td align="right">13</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />util.<wbr />Scanner.<wbr />nextLine</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;312 bytes (0 %)</td><td align="right">14</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />StringBuilder.<wbr />append</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;264 bytes (0 %)</td><td align="right">4</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />StringBuilder.<wbr />toString</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;176 bytes (0 %)</td><td align="right">5</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />io.<wbr />PrintStream.<wbr />println</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;112 bytes (0 %)</td><td align="right">2</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />StringBuilder.<wbr />&lt;init&gt;</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;112 bytes (0 %)</td><td align="right">4</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>iiitd.<wbr />oopdProject.<wbr />Tracking.<wbr />track</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;48 bytes (0 %)</td><td align="right">2</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />Float.<wbr />parseFloat</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;32 bytes (0 %)</td><td align="right">1</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />Math.<wbr />sin</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;32 bytes (0 %)</td><td align="right">1</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />Double.<wbr />valueOf</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;24 bytes (0 %)</td><td align="right">1</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />util.<wbr />ArrayList.<wbr />&lt;init&gt;</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;24 bytes (0 %)</td><td align="right">1</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_tee_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />util.<wbr />Random.<wbr />&lt;init&gt;</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;24 bytes (0 %)</td><td align="right">1</td>
+</tr>
+<tr valign="top">
+<td nowrap="nowrap"><img height="18" width="18" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/tree/menu_corner_plus_18.gif" /><img height="16" width="16" border="0" align="left" hspace="0" vspace="0" src="jprofiler_images/hotspot_16.png" /></td><td>java.<wbr />lang.<wbr />Float.<wbr />valueOf</td><td><img height="16" width="0" border="0" hspace="0" vspace="0" src="jprofiler_images/pixel_ff800000.png" />&nbsp;16 bytes (0 %)</td><td align="right">1</td>
+</tr>
+</table></body>
+</html>

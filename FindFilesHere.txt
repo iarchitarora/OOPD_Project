@@ -1,0 +1,9 @@
+1. To see the doxygen report kindly open index.html file, under Documentation folder
+
+2. The jar file can be found in jarfile/target/ProjectOopdMaven-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+
+3. Database file can be found in jarfile/target/food.db
+
+4. Profiling report contains:
+	(i) Folder: JPS File-It contains the snapshot of profiling as .jps file.
+	(ii) Folder: Reports: It contains various reports such as telemetrics for cpu, memory, call graph, call tree etc. saved as .html and .csv files.   
